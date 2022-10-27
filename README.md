@@ -1,4 +1,6 @@
 # Raccoon_game
+CSC148
+
 win the game by not letting the raccoons move.
 
 the player can move the recylcing bins.
